@@ -7,20 +7,27 @@ The Metroville Rail Expansion Project Dashboard provides a clear view of project
 2.  Project Highlights 📊
 
 -Total Track Planned/Completed: 27 / 16 miles
+
 -Electrification Planned/Completed: 68 / 30 miles
+
 -Budget: $125M | Spent: $90M
+
 -Balanced community engagement with project timelines.
 
 3.	My Contributions & Learnings ✅
    
 -Financial Analysis & Budget Tracking
+
 -Compared budgeted vs. actual expenditure, ensuring alignment within 5% deviation.
+
 -Analyzed overspending in excavation and identified cost-saving measures on materials.
 
 4.	Project Financials 💰
 
 -Budgeted: $125M
+
 -Spent: $90M
+
 -Variance analysis shows controlled overspend offset by material savings.
 
 5.	Dashboard snapshot 📊
